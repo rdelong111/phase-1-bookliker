@@ -9,12 +9,16 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": 10,
+          "username": "macejkovic"
         },
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 4,
+          "username": "ann"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
         }
       ]
     },
@@ -37,10 +41,6 @@
         {
           "id": 6,
           "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
         }
       ]
     },
